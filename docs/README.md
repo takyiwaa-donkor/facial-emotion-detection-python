@@ -1,4 +1,4 @@
-# Emotion Detection System
+#  Facial Emotion Detection System
 
 ## Documentation
 
